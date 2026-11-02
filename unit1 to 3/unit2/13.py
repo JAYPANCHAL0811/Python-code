@@ -1,0 +1,5 @@
+print(f"String: { 'hello':s}")
+print(f"Integer formats (Dec/Bin/Oct/Hex): {255:d} | {255:b} | {255:o} | {255:x}")
+print(f"Unicode Char: {65:c}")
+print(f"Float formats (Fixed/Sci): {1234.5678:.2f} | {1234.5678:.2e}")
+print(f"Percentage & General: {0.756:.1%} | {1234.5678:.4g}")
